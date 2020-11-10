@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548047705 source:c:\users\fibo-student20\desktop\vic-71\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1548046727 source:c:\users\fibo-student20\desktop\vic-71\test.c
+	<stdio.h>
+	<stdlib.h>
+
